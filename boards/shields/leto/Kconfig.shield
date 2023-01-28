@@ -1,0 +1,10 @@
+
+
+config SHIELD_LETO
+	def_bool $(shields_list_contains,leto)
+
+config SHIELD_LETO_LEFT
+    def_bool $(shields_list_contains,leto_left)
+
+config SHIELD_LETO_RIGHT
+    def_bool $(shields_list_contains,leto_right)
