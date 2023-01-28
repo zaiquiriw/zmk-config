@@ -2,7 +2,7 @@
 
 if SHIELD_LETO_LEFT
 
-config ZMK_LETO
+config ZMK_KEYBOARD_NAME
 	default "Leto"
 
 config ZMK_SPLIT_ROLE_CENTRAL
