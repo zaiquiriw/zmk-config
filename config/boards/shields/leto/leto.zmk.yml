@@ -1,0 +1,10 @@
+file_format: "1"
+id: leto
+name: Leto
+type: shield
+url: https://zaiquiriw.net
+features:
+  - keys
+siblings:
+  - leto_left
+  - leto_right
